@@ -5,6 +5,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         ArrayList<Kund> kunder = new ArrayList<>();
 
+        //test
         Kund hederligeHarry = new Kund();
         hederligeHarry.setNamn("Hederlige Harrys Bilar: ");
         hederligeHarry.setMeddelande("En bra bilaffär (för Harry)");
